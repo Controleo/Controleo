@@ -1,16 +1,17 @@
-## Introduction
-### Hi there 👋
+#### 👋 Hi there, I'm Leonard!
 Welcome to my space!! 
-On the surface, you can say I'm a Data analyst and Software Developer. Thanks to my background in Geomatics Engineering, I have a deeper interest in Earth Science and everything Geospatial. Are you a recruiter, collegue, or an admirer? Here's a brief summary of all the interesting stuff I've taken on in the past decade. 
 
-### Technical Writnig
+I'm a Data Analyst and Software Developer with a passion for everything Geospatial. Thanks to my background in Geomatics Engineering, I explore the intersection of earth science, spatial data, and technology to build impactful solutions.
+Whether you're a recruiter, collaborator, or just an admirer of cool projects, this is where you'll find a curated view of my technical journey over the past decade.
 
-### GIS Data Analysis
+##💡 What I Do
+🛰️ GIS Data Analysis – Uncovering patterns, trends, and insights in complex spatial datasets.
+💻 GIS Software Development – Building tools, plugins, and spatial databases for real-world applications.
+✍️ Technical Writing – Breaking down complex concepts into clear, accessible documentation and tutorials.
+🔧 Database & Backend Work – Designing scalable spatial databases (PostGIS, SpatiaLite) and efficient backends for data-driven apps.
 
-### GIS Software Development
-
-## Projects
-
+##📌 Featured Projects
+Here’s a glimpse of some exciting things I’ve worked on:
 
 
 
