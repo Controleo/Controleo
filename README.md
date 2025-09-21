@@ -1,4 +1,4 @@
-#### 👋 Hi there, I'm Leonard!
+# Hi, I'm Leonard!!
 Welcome to my space!! 
 
 I am a Data Analyst and Software Developer with a passion for everything Geospatial. Thanks to my background in Geomatics Engineering, I explore the intersection of earth science, spatial data, and technology to build impactful solutions.
@@ -61,13 +61,95 @@ On the channel, you’ll find:
 ## 📌 Featured Projects
 Here’s a glimpse of some exciting things I’ve worked on:
 
-### Work Projects
-#### QGIS PLugin 
+## 1.0 QGIS PLugin  Development
+*For easy computation of Bill of Materials*  
+
+**📅 Duration:** March 2025 – Present  
+**🛠 Tools & Tech:** CSS · HTML · PostgreSQL · Python ·  
+**👤 Role:** GIS Analyst  
+
+### 🎯 Objective  
+The BOM generation Plugin is a QGIS-based tool developed to streamline the creation of Bill of Materials (BOM) outputs for fiber network planning and deployment at ipNX Nigeria. 
+It executes standardized SQL scripts to generate essential infrastructure tables and statistical summaries directly from a PostGIS database.
+This plugin is intended to reduce manual workflows and enable planners and engineers to quickly access up-to-date infrastructure data within QGIS.
+
+
+### 🛠 Approach  
+- Step 1: Data collection/cleaning  
+- Step 2: Spatial/statistical analysis methods  
+- Step 3: Visualization & outputs  
+
+### 🌍 Outcome / Results  
+- Key insights or metrics  
+- Policy/decision-making impact  
+- Value created by the project  
+
+#### 📸 Project Gallery  
+
+<!-- Option A: Side-by-Side with Captions -->
+<p align="center">
+  <figure style="display:inline-block; margin:10px;">
+    <img src="image1.png" width="45%" />
+    <figcaption align="center"><i>Before Data Cleaning</i></figcaption>
+  </figure>
+  <figure style="display:inline-block; margin:10px;">
+    <img src="image2.png" width="45%" />
+    <figcaption align="center"><i>After Data Cleaning</i></figcaption>
+  </figure>
+</p>
+
+---
+
+<!-- Option B: Click-to-Zoom Gallery with Captions -->
+<p align="center">
+  <a href="image1.png">
+    <img src="image1.png" width="30%"><br>
+    <sub><i>Crime Hotspots in 2020</i></sub>
+  </a>
+  <a href="image2.png">
+    <img src="image2.png" width="30%"><br>
+    <sub><i>Crime Hotspots in 2021</i></sub>
+  </a>
+  <a href="image3.png">
+    <img src="image3.png" width="30%"><br>
+    <sub><i>Projected 2025 Trends</i></sub>
+  </a>
+</p>
+
+---
+
+<!-- Option C: Scrollable Gallery with Captions -->
+<div style="display: flex; overflow-x: auto; gap: 20px; padding:10px;">
+  <figure>
+    <img src="image1.png" width="250" />
+    <figcaption align="center"><i>Green Space Distribution</i></figcaption>
+  </figure>
+  <figure>
+    <img src="image2.png" width="250" />
+    <figcaption align="center"><i>Health Indicators Overlay</i></figcaption>
+  </figure>
+  <figure>
+    <img src="image3.png" width="250" />
+    <figcaption align="center"><i>Correlation Results</i></figcaption>
+  </figure>
+</div>
+
+### 🔗 Links & Media  
+- [Interactive Dashboard](#)  
+- [GitHub Repo](#)  
+- [YouTube Walkthrough](#)  
+
+#### Database Design
 
 #### Power Distribution
 
 #### Address Data Management
 
-### Side Projects
 
+### Side Projects
+#### ArcGIS Scripting
+
+#### Webmapping, Story maps and ArcGIS Dashboards
+
+#### 
 
