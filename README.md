@@ -64,80 +64,45 @@ Here’s a glimpse of some exciting things I’ve worked on:
 ## 1.0 QGIS PLugin  Development
 *For easy computation of Bill of Materials*  
 
-**📅 Duration:** March 2025 – Present  
-**🛠 Tools & Tech:** CSS · HTML · PostgreSQL · Python ·  
-**👤 Role:** GIS Analyst  
+**Duration:** March 2025 – Present  
+**Tools & Tech:** CSS · HTML · PostgreSQL · Python ·  
+**Role:** GIS Analyst  
 
-### 🎯 Objective  
-The BOM generation Plugin is a QGIS-based tool developed to streamline the creation of Bill of Materials (BOM) outputs for fiber network planning and deployment at ipNX Nigeria. 
+### Objective  
+The BOM generation Plugin is a QGIS-based tool developed to streamline the creation of Bill of Materials (BOM) outputs for fibre network planning and deployment at ipNX Nigeria. 
 It executes standardized SQL scripts to generate essential infrastructure tables and statistical summaries directly from a PostGIS database.
 This plugin is intended to reduce manual workflows and enable planners and engineers to quickly access up-to-date infrastructure data within QGIS.
 
 
-### 🛠 Approach  
-- Step 1: Data collection/cleaning  
-- Step 2: Spatial/statistical analysis methods  
-- Step 3: Visualization & outputs  
+### Approach  
+- Step 1: Schema Design  
+- Step 2: Develop SQL Scripts  
+- Step 3: Plugin UI and Backend Design
 
-### 🌍 Outcome / Results  
-- Key insights or metrics  
+###  Outcome / Results  
+- 300% faster turnaround time on BOM computation
 - Policy/decision-making impact  
 - Value created by the project  
 
-#### 📸 Project Gallery  
-
-<!-- Option A: Side-by-Side with Captions -->
-<p align="center">
-  <figure style="display:inline-block; margin:10px;">
-    <img src="image1.png" width="45%" />
-    <figcaption align="center"><i>Before Data Cleaning</i></figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px;">
-    <img src="image2.png" width="45%" />
-    <figcaption align="center"><i>After Data Cleaning</i></figcaption>
-  </figure>
-</p>
-
----
-
-<!-- Option B: Click-to-Zoom Gallery with Captions -->
-<p align="center">
-  <a href="image1.png">
-    <img src="image1.png" width="30%"><br>
-    <sub><i>Crime Hotspots in 2020</i></sub>
-  </a>
-  <a href="image2.png">
-    <img src="image2.png" width="30%"><br>
-    <sub><i>Crime Hotspots in 2021</i></sub>
-  </a>
-  <a href="image3.png">
-    <img src="image3.png" width="30%"><br>
-    <sub><i>Projected 2025 Trends</i></sub>
-  </a>
-</p>
-
----
+####  Project Gallery  
 
 <!-- Option C: Scrollable Gallery with Captions -->
 <div style="display: flex; overflow-x: auto; gap: 20px; padding:10px;">
   <figure>
-    <img src="image1.png" width="250" />
+    <img src="BOMGeneratorUI.png" width="250" />
     <figcaption align="center"><i>Green Space Distribution</i></figcaption>
   </figure>
   <figure>
-    <img src="image2.png" width="250" />
+    <img src="BOMGenerator_code1.png" width="250" />
     <figcaption align="center"><i>Health Indicators Overlay</i></figcaption>
   </figure>
   <figure>
-    <img src="image3.png" width="250" />
+    <img src="BOMGenerator_code2.png" width="250" />
     <figcaption align="center"><i>Correlation Results</i></figcaption>
   </figure>
 </div>
 
-### 🔗 Links & Media  
-- [Interactive Dashboard](#)  
-- [GitHub Repo](#)  
-- [YouTube Walkthrough](#)  
+#### Ford Go-bike Data
 
 #### Database Design
 
