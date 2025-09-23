@@ -89,15 +89,15 @@ This plugin is intended to reduce manual workflows and enable planners and engin
 <!-- Option C: Scrollable Gallery with Captions -->
 <div style="display: flex; overflow-x: auto; gap: 20px; padding:10px;">
   <figure>
-    <img src="BOMGenerator_UI.png" width="250" />
+    <img src="images/BOMGenerator_UI.png" width="250" />
     <figcaption align="center"><i>BOM Generator Plugin UI</i></figcaption>
   </figure>
   <figure>
-    <img src="BOMGenerator_code1.png" width="250" />
+    <img src="images/BOMGenerator_code1.png" width="250" />
     <figcaption align="center"><i>BOM Generator on GitHub</i></figcaption>
   </figure>
   <figure>
-    <img src="BOMGenerator_code2.png" width="250" />
+    <img src="images/BOMGenerator_code2.png" width="250" />
     <figcaption align="center"><i>Code Snippet</i></figcaption>
   </figure>
 </div>
