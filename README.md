@@ -98,7 +98,42 @@ This plugin is intended to reduce manual workflows and enable planners and engin
 </div>
 
 
-#### Ford Go-bike Data
+## 2.0 Ford Go-bike Data
+*Understanding Bike Sharing Behaviours*  
+
+**Duration:** July 2022 – August 2022  
+**Tools & Tech:** Jupiter Notebook · Python ·  
+**Role:** Data Analyst  
+
+### Objective  
+This project explores the Ford GoBike trip dataset, which records bike-sharing trips across the San Francisco Bay Area in February 2019. The dataset provides insights into user behavior, trip durations, station usage, and demographic information of registered members.
+The primary goal of this analysis is to understand how factors such as trip duration, user type, gender, and age influence bike-sharing behaviours, while also identifying potential data quality issues.
+
+### Approach  
+- Step 1: Data Cleaning  
+- Step 2: Data Wrangling and Exploration 
+- Step 3: Data Visualisation
+
+###  Outcome / Results  
+- Most trips lasted 5–15 minutes, with a few extreme outliers (>24 hours).
+- Subscribers dominate the system compared to casual Customers.
+- More male riders are registered compared to female riders.
+- Some unrealistic birth years exist (e.g., <1900), suggesting data quality issues.
+
+####  Project Gallery 
+
+Repository Link = https://github.com/Controleo/Ford-GoBike-Part-1
+
+<div style="display: flex; overflow-x: auto; gap: 20px; padding:10px;">
+  <div style="text-align:center;">
+    <img src="images/age_distribution.png" width="250" />
+    <div><i>Age Distribution</i></div>
+  </div>
+  <div style="text-align:center;">
+    <img src="images/trip_duration_distribution.png" width="250" />
+    <div><i>Trip Duration</i></div>
+  </div>
+</div>
 
 #### Database Design
 
