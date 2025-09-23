@@ -122,7 +122,7 @@ The primary goal of this analysis is to understand how factors such as trip dura
 
 ####  Project Gallery 
 
-Repository Link = https://github.com/Controleo/Ford-GoBike-Part-1
+![Repository Link](https://github.com/Controleo/Ford-GoBike-Part-1)
 
 <div style="display: flex; overflow-x: auto; gap: 20px; padding:10px;">
   <div style="text-align:center;">
