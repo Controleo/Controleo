@@ -86,21 +86,17 @@ This plugin is intended to reduce manual workflows and enable planners and engin
 
 ####  Project Gallery  
 
-<!-- Option C: Scrollable Gallery with Captions -->
 <div style="display: flex; overflow-x: auto; gap: 20px; padding:10px;">
-  <figure>
+  <div style="text-align:center;">
     <img src="images/BOMGenerator_UI.png" width="250" />
-    <figcaption align="center"><i>BOM Generator Plugin UI</i></figcaption>
-  </figure>
-  <figure>
+    <div><i>BOM Generator Plugin UI</i></div>
+  </div>
+  <div style="text-align:center;">
     <img src="images/BOMGenerator_code1.png" width="250" />
-    <figcaption align="center"><i>BOM Generator on GitHub</i></figcaption>
-  </figure>
-  <figure>
-    <img src="images/BOMGenerator_code2.png" width="250" />
-    <figcaption align="center"><i>Code Snippet</i></figcaption>
-  </figure>
+    <div><i>BOM Generator on GitHub</i></div>
+  </div>
 </div>
+
 
 #### Ford Go-bike Data
 
